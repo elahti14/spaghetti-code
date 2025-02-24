@@ -1,5 +1,6 @@
-# UTD Girls Who Code Spaghetti Code event - "Hello World" #
-## Compiling your code ##
+# UTD Girls Who Code Spaghetti Code event#
+## Objective: Write the most spaghetti HELLO-WORLD program you can (any language of choice0 ##
+## Compiling your code - Example C++ ##
 ```
 g++ -o hello-world hello-world.cpp
 ```
@@ -7,7 +8,7 @@ g++ -o hello-world hello-world.cpp
 ## Instructions ## 
 1. Form teams of 3-4
 2. Fork this repository 
-3. Build the most complex hello world possible
+3. Cook up the most complex 'hello world' possible
 4. Provide readme.md with the following
    * Strategy and design
    * How you could've made your code worse
@@ -34,5 +35,6 @@ Setting up git - https://docs.github.com/en/get-started/quickstart/set-up-git
 
 Granting repo access - https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository
 
-## Helpful ##
+## Helpful Resources ##
 Git Cheat Sheet - https://about.gitlab.com/images/press/git-cheat-sheet.pdf
+Google St
