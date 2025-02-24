@@ -1,5 +1,5 @@
 # UTD Girls Who Code Spaghetti Code event#
-## Objective: Write the most spaghetti HELLO-WORLD program you can (any language of choice0 ##
+## Objective: Write the most spaghetti HELLO-WORLD program you can ##
 ## Compiling your code - Example C++ ##
 ```
 g++ -o hello-world hello-world.cpp
