@@ -1,4 +1,4 @@
-# UTD Girls Who Code Spaghetti Code event#
+# UTD Girls Who Code Spaghetti Code X JPMC #
 ## Objective: Write the most spaghetti HELLO-WORLD program you can ##
 ## Compiling your code - Example C++ ##
 ```
