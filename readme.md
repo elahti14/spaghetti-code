@@ -37,4 +37,3 @@ Granting repo access - https://docs.github.com/en/account-and-profile/setting-up
 
 ## Helpful Resources ##
 Git Cheat Sheet - https://about.gitlab.com/images/press/git-cheat-sheet.pdf
-Google St
